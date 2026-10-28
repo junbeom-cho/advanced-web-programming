@@ -1,0 +1,4 @@
+# 이 레포에만 해당하는 ignore. OS·에디터 파일은 전역 ignore(~/.config/git/ignore)에 있다.
+
+# 과제 제출용 압축 파일 — 기획자료와 dev-guide로 다시 만들 수 있다
+/제출/
